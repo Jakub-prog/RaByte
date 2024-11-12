@@ -1,29 +1,26 @@
-## Setting Up the Jetson
+# Setting Up the Jetson
 
-This documentation outlines the steps needed to connect to your Jetson device via SSH and installing all the needed packages (or verifying the installation)
+This documentation outlines the steps needed to connect to your Jetson device via SSH and install all the necessary packages (or verify the installation).
 
-Instalation:
+## Installation
 
- 1. [[Setting up Tailscale for Remote Access]]
- 2. [[ros2installation]]
- 3. [[Checks for Cuda,TensoRT and OpenCV]]
+1. [Setting up Tailscale for Remote Access](Setting-up-Tailscale-for-Remote-Access.md)
+2. [ROS 2 Installation](ros2installation.md)
+3. [Checks for CUDA, TensorRT, and OpenCV](Checks-for-Cuda-TensorRT-and-OpenCV.md)
 
-SSH and ip problems:
-- [[Finding the IP Address in the Network]]
-- [[Creating an SSH Key and Configuring the Connection]]
+## SSH and IP Problems
 
-
+- [Finding the IP Address in the Network](Finding-the-IP-Address-in-the-Network.md)
+- [Creating an SSH Key and Configuring the Connection](Creating-an-SSH-Key-and-Configuring-the-Connection.md)
 
 ---
 
+### Embedding Sections
 
+Instead of Obsidian-style `![[...]]` embedding, use direct links or copy the relevant sections here on GitHub, as embedding doesn’t work. You can manually link or refer to those sections like this:
 
-![[Setting up Tailscale for Remote Access]]
+- [Setting up Tailscale for Remote Access](Setting-up-Tailscale-for-Remote-Access.md)
+- [ROS 2 Installation](ros2installation.md)
+- [Checks for CUDA, TensorRT, and OpenCV](Checks-for-Cuda-TensorRT-and-OpenCV.md)
 
-
-
-![[ros2installation]]
-
-
-
-![[Checks for Cuda,TensoRT and OpenCV]]
+---
