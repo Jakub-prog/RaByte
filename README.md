@@ -6,7 +6,7 @@ This documentation outlines the steps needed to connect to your Jetson device vi
 
 1. [Setting up Tailscale for Remote Access](Jetson/help/Setting%20up%20Tailscale%20for%20Remote%20Access.md)
 2. [ROS 2 Installation](Jetson/help/ros2installation.md)
-3. [Checks for CUDA, TensorRT, and OpenCV](Jetson/help/Checks%20for%20CUDA%2CTensorRT%20and%20OpenCV.md)
+3. [Checks for CUDA, TensorRT, and OpenCV](Jetson/help/Checks%20for%20Cuda%2CTensoRT%20and%20OpenCV.md
 
 ## SSH and IP Problems
 
