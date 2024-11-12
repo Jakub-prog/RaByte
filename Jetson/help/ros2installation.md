@@ -2,7 +2,7 @@
 
 The best way to install it is to follow the steps of the [official ros2 manual](https://docs.ros.org/en/iron/Installation/Ubuntu-Install-Debs.html)
 
-Or use the scritp [ROS2 Humble installation script](ROS2%Humble%installation%script.md)
+Or use the scritp [ROS2 Humble installation script](ROS2%20Humble%20installation%20script.md)
 
 To check the installation:
 
