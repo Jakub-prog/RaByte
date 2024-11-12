@@ -2,7 +2,7 @@
 
 # Checks for Cuda,TensoRT and OpenCV
 
-Here you can use the script for [[auto checks for CUDA, TensorRT, and OpenCV]]
+Here you can use the script for [auto checks for CUDA, TensorRT, and OpenCV](auto%20checks%20for%20CUDA%2C%20TensorRT%2C%20and%20OpenCV.md)
 
 ### Manual Version Checks for CUDA, TensorRT, and OpenCV
 
