@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jetson/Setting Up the Jetson.md",
+                "file": "Setting Up the Jetson.md",
                 "mode": "source",
                 "source": false
               },
@@ -162,13 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3021b700be3ce755",
+  "active": "0e0be6908b782400",
   "lastOpenFiles": [
     "Jetson/help/Checks for Cuda,TensoRT and OpenCV.md",
     "Jetson/help/auto checks for CUDA, TensorRT, and OpenCV.md",
     "Jetson/help/Creating an SSH Key and Configuring the Connection.md",
     "Jetson/help/Finding the IP Address in the Network.md",
-    "Jetson/Setting Up the Jetson.md",
+    "Setting Up the Jetson.md",
     "Jetson/help/ros2installation.md",
     "Jetson/help/ROS2.md",
     "Jetson/help/Setting up Tailscale for Remote Access.md",
