@@ -1,3 +1,4 @@
+## Setting Up the Jetson
 
 This documentation outlines the steps needed to connect to your Jetson device via SSH and installing all the needed packages (or verifying the installation)
 
