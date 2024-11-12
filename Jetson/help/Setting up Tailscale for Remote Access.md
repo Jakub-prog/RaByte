@@ -26,7 +26,7 @@ Once your network is created on your primary device, you can install Tailscale o
 
 - Download and install Tailscale using the official method:
   
-  ```bash
+```bash
   curl -fsSL https://tailscale.com/install.sh | sh
 ```
 
