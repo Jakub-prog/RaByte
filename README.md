@@ -14,13 +14,3 @@ This documentation outlines the steps needed to connect to your Jetson device vi
 - [Creating an SSH Key and Configuring the Connection](Jetson/help/Creating%20an%20SSH%20Key%20and%20Configuring%20the%20Connection.md)
 
 ---
-
-### Embedding Sections
-
-Instead of Obsidian-style `![[...]]` embedding, use direct links or copy the relevant sections here on GitHub, as embedding doesn’t work. You can manually link or refer to those sections like this:
-
-- [Setting up Tailscale for Remote Access](Jetson/help/Setting%20up%20Tailscale%20for%20Remote%20Access.md)
-- [ROS 2 Installation](Jetson/help/ros2installation.md)
-- [Checks for CUDA, TensorRT, and OpenCV](Jetson/help/Checks%20for%20CUDA%2CTensorRT%20and%20OpenCV.md)
-
----
